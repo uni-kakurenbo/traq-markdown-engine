@@ -12,7 +12,7 @@
     "typecheck": "bun run --bun ../../scripts/tsc.ts -p tsconfig.json"
   },
   "dependencies": {
-    "jest-diff": "30.5.1",
+    "jest-diff": "30.5.2",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
